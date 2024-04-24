@@ -1,5 +1,5 @@
 # DisasterAlert
-Google Girl Hackathon 2023 ideathon submission
+Google Girl Hackathon 2024 ideathon submission
 
 ## Setting up the project
 
